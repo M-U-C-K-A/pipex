@@ -1,0 +1,19 @@
+Hello World!
+Pipex is a FUN project.
+Testing line 1.
+Testing LINE 2 with NUMBERS: 12345.
+A line with SPECIAL characters: @#$%^&*()_+[]{};:'",.<>?/|\
+Another line with a list:
+- Apples
+- Bananas
+- Cherries
+- Dates
+- Eggs
+PIPEX is case-sensitive!
+Testing line 3...
+Random ALPHANUMERIC123 text.
+The quick brown fox jumps over the lazy dog.
+Some duplicate lines:
+Repeat this.
+Repeat this.
+END of FILE.
